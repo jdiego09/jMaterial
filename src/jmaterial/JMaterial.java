@@ -25,6 +25,7 @@ public class JMaterial extends Application {
       System.out.println(getClass().getResource("view/FXMLDocument.fxml"));
       stage.setScene(scene);
       stage.show();
+      //prueba de commit desde netbeans
    }
 
    /**
